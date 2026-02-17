@@ -43,7 +43,7 @@ const Projects = () => {
                     </a>
                 </div>
                 <div>
-                    <a href="https://www.globeapp.dsc-ideas.com/" target="_blank">
+                    <a href="https://globeapp.dsc-ideas.com/" target="_blank">
                         <h3 className='project-title'>
                             Globe website
                         </h3>
