@@ -1,6 +1,7 @@
 import lionsport from '../assets/lionsport.png';
 import globe from '../assets/globe.png';
 import eshop from '../assets/eshop.png';
+import eshopapi from '../assets/eshop-api.png';
 import lionmockup from "../assets/lionsport-mockup.jpg";
 import lionuserpersona from "../assets/lionsport-userpersona.jpg";
 import lionwireframe from "../assets/lionsport-wireframe.png";
@@ -78,6 +79,12 @@ const Projects = () => {
                         </h3>
                         <h4>Virtual Private Server (VPS), Django, React.js, Tailwind CSS, MySQL</h4>
                         <img src={eshop} alt="eshop" />
+                    </a>
+                    <a href="https://eshopapi.dsc-ideas.cloud/admin/" target="_blank">
+                        <h3 className='project-title'>
+                            E-shop backend
+                        </h3>
+                        <img src={eshopapi} alt="eshopapi" />
                     </a>
                     <a href="https://github.com/Ramed33/eshop-api" target="_blank">
                         <h4>
